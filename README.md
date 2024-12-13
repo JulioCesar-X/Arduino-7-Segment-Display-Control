@@ -16,4 +16,4 @@ This project demonstrates how to control a 7-segment display with Arduino using 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/Arduino-7-Segment-Display-Control.git
+   git clone https://github.com/JulioCesar-X/Arduino-7-Segment-Display-Control.git
